@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Que Le</title>
+    <link>le-que.github.io/tags/c/</link>
+    <description>Recent content in C on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Organization and Programming</title>
+      <link>le-que.github.io/post/comp_org/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/comp_org/</guid>
+      <description>&lt;p&gt;An introduction to basic computer hardware, machine language, assembly language, and C programming.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/post/security/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/security/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/post/systems/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/systems/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
