@@ -1,0 +1,75 @@
+# Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
+# and drop a star while you're at it. ;)
+baseurl = "le-que.github.io"
+title = "Que Le"
+languageCode = "en-us"
+paginate = "15" # Number of posts per page
+#disqusShortname = "" # Enable comments by entering your Disqus shortname
+#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+#-------------------------------------------------------------------------------
+# DEFAULT SETTINGS
+#-------------------------------------------------------------------------------
+
+# Default Theme
+theme= "gruvhugo"
+
+# Default Post Extension
+defaultExtension= "html"
+
+# Default metadata format for newly created frontmatter using
+# hugo new command. "toml", "yaml", or "json"
+metaDataFormat= "yaml"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  headerTitle = "Que Le"
+  name = "que_le"
+  img = "img/author.jpg"
+  description= "Hi, I'm Que Le. I graduated with high honors in computer science at the Georgia Institute of Technology. I'm interested in databases, software engineering, and machine learning. I'm a great team player and I'm always looking for opportunities to learn and grow. I'm passionate about using technology to solve real-world problems. Outside of work, you can find me petting my dog, cooking, or reading." 
+  licenseUrl = ""
+
+ # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:le.que1016@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/le-que"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/queple/"
+
+  [[params.social]]
+    name = "dog"
+    url  = "madeline"
+    identifier = "madeline/"
+
+[params.style]
+  # add path to custom CSS files here
+  custom_css = []
+  # add path to custom SCSS files here
+  custom_scss = []
+
+[menu]
+  [[menu.main]]
+    identifier = "post"
+    name       = "Course Work"
+    url        = "post/"
+
+  [[menu.main]]
+    identifier = "personal"
+    name       = "Personal"
+    url        = "personal/"
+[[menu.main]]
+    identifier = "about"
+    name       = "About Me"
+    url        = "about"
