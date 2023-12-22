@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c on Que Le</title>
+    <link>le-que.github.io/tags/c/</link>
+    <description>Recent content in c on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/personal/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/post/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/personal/systems/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/systems/</guid>
+      <description>&lt;p&gt;Overview of computer system structure and networking, covering aspects such as processor organization, memory hierarchy, storage devices, parallel processors, networking hardware, software abstractions in operating systems, and networking protocols, with a focus on orchestrating the efficient utilization of computing resources.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/post/systems/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/systems/</guid>
+      <description>&lt;p&gt;Overview of computer system structure and networking, covering aspects such as processor organization, memory hierarchy, storage devices, parallel processors, networking hardware, software abstractions in operating systems, and networking protocols, with a focus on orchestrating the efficient utilization of computing resources.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Computer Organization and Programming</title>
+      <link>le-que.github.io/post/comp_org/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/comp_org/</guid>
+      <description>&lt;p&gt;An introduction to basic computer hardware, machine language, assembly language, and C programming.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

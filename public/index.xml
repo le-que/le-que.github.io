@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Que Le</title>
+    <link>le-que.github.io/</link>
+    <description>Recent posts from on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>le-que.github.io/post/deep_learning/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/deep_learning/</guid>
+      <description>&lt;p&gt;Introduces the basics of Neural Networks (NNs). Modules include Convolutional NNs, Recurrent NNs, Deep Reinforcement Learning, and Deep Structured Prediction.&lt;/p&gt;
+&lt;h2 id=&#34;hw1httpsgithubcomle-quedeep_learningtreemainhw1&#34;&gt;&lt;a href=&#34;https://github.com/le-que/deep_learning/tree/main/hw1&#34;&gt;HW1&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement two networks from scratch: a simple softmax regression and a two-layer multi-layer perceptron (MLP)&lt;/li&gt;
+&lt;li&gt;Implement an optimizer to update weights of models.&lt;/li&gt;
+&lt;li&gt;Theory
+&lt;ul&gt;
+&lt;li&gt;Optimization&lt;/li&gt;
+&lt;li&gt;Directed Acyclic Graph&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hw2httpsgithubcomle-quedeep_learningtreemainhw220-20fa23&#34;&gt;&lt;a href=&#34;https://github.com/le-que/deep_learning/tree/main/HW2%20-%20Fa23&#34;&gt;HW2&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement a convolutional neural network&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hw3httpsgithubcomle-quedeep_learningtreemainhw3&#34;&gt;&lt;a href=&#34;https://github.com/le-que/deep_learning/tree/main/HW3&#34;&gt;HW3&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement a Transformer model and several variants such as Encoder Transformers, Decoder Transformers, and Encoder-Decoder transformers&lt;/li&gt;
+&lt;li&gt;Theory
+&lt;ul&gt;
+&lt;li&gt;Logic and XOR&lt;/li&gt;
+&lt;li&gt;Recurrent Neural Networks and Transformers&lt;/li&gt;
+&lt;li&gt;Transformer as GNN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hw4httpsgithubcomle-quedeep_learningtreemainhw4&#34;&gt;&lt;a href=&#34;https://github.com/le-que/deep_learning/tree/main/HW4&#34;&gt;HW4&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gradient Descent&lt;/li&gt;
+&lt;li&gt;Automatic Differentiation&lt;/li&gt;
+&lt;li&gt;SGD&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>le-que.github.io/post/machine_learn/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/machine_learn/</guid>
+      <description>&lt;p&gt;Introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data.&lt;/p&gt;
+&lt;h2 id=&#34;hw1httpsgithubcomle-quemachine_learningtreemainhw1_ml&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Machine_Learning/tree/main/hw1_ml&#34;&gt;HW1&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Linear Algebra, Probability and Statistics, Maximum Likelihood Estimation, Optimization, Information Theory&lt;/p&gt;
+&lt;h2 id=&#34;hw2httpsgithubcomle-quemachine_learningtreemainhw2_ml&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Machine_Learning/tree/main/hw2_ml&#34;&gt;HW2&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;KMeans, Expectation Maximization, Gaussian Mixture Model, Clustering Evaluation&lt;/p&gt;
+&lt;h2 id=&#34;hw3httpsgithubcomle-quemachine_learningtreemainml_hw3&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Machine_Learning/tree/main/ml_hw3&#34;&gt;HW3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Singular Value Decomposition, Principal Component Analysis, Linear Regression, Regularization, Naive Bayes&lt;/p&gt;
+&lt;h2 id=&#34;hw4httpsgithubcomle-quemachine_learningtreemainhw4_ml&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Machine_Learning/tree/main/hw4_ml&#34;&gt;HW4&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Decision Trees, Random Forest, Support Vector Machine, Neural Networks, CNN&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/post/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;
+&lt;h2 id=&#34;project-1&#34;&gt;Project 1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand introductory concepts of binary exploitation.&lt;/li&gt;
+&lt;li&gt;Develop an understanding of control flow hijacking.&lt;/li&gt;
+&lt;li&gt;Learn about vulnerabilities and weaknesses in C programs.&lt;/li&gt;
+&lt;li&gt;Utilize the pwntools Python library for exploitation techniques and automation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;00_intro&#34;&gt;00_intro:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Open a terminal and navigate to the project directory project_ctf/00_intro.&lt;/li&gt;
+&lt;li&gt;Follow instructions in the readme file to modify e.py with your GTID.&lt;/li&gt;
+&lt;li&gt;Execute the script to obtain the first flag.&lt;/li&gt;
+&lt;li&gt;Submit the flag to ensure it works before proceeding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;01_buffer_overflow_1&#34;&gt;01_buffer_overflow_1:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn about buffer overflow and control flow hijacking.&lt;/li&gt;
+&lt;li&gt;Use GDB if necessary.&lt;/li&gt;
+&lt;li&gt;Modify e.py to overflow data and redirect control flow to reach the call_me() function.&lt;/li&gt;
+&lt;li&gt;Obtain the flag and submit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;01_buffer_overflow_2&#34;&gt;01_buffer_overflow_2:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore a binary vulnerable to buffer overflow.&lt;/li&gt;
+&lt;li&gt;Understand binary file formats, data, and addresses.&lt;/li&gt;
+&lt;li&gt;Use pwntools to automate overflow techniques.&lt;/li&gt;
+&lt;li&gt;Find a usable address in the binary to call call_me() and obtain the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;02_assemble_the_assembly&#34;&gt;02_assemble_the_assembly:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Determine assembly instructions to construct a call to call_me().&lt;/li&gt;
+&lt;li&gt;Analyze instructions using objdump or GDB.&lt;/li&gt;
+&lt;li&gt;Understand different instructions and their behavior.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;02_bad_rando&#34;&gt;02_bad_rando:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify leaked libc base address.&lt;/li&gt;
+&lt;li&gt;Analyze the C file and determine the expected value.&lt;/li&gt;
+&lt;li&gt;Script in Python to modify and send payloads.&lt;/li&gt;
+&lt;li&gt;Repeat until obtaining the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;02_p4s5w0rd&#34;&gt;02_p4s5w0rd:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use strings to find available strings in the program.&lt;/li&gt;
+&lt;li&gt;Figure out correct responses by analyzing strings.&lt;/li&gt;
+&lt;li&gt;Obtain the flag by providing correct responses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;02_the_server_client_one&#34;&gt;02_the_server_client_one:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze communication between a server and client.&lt;/li&gt;
+&lt;li&gt;Break the program in GDB, determine buffer size, and find the correct response.&lt;/li&gt;
+&lt;li&gt;Obtain the flag by manipulating server responses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;03_xorbius&#34;&gt;03_XORbius:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reverse engineer to unravel program logic.&lt;/li&gt;
+&lt;li&gt;Input correct values to decode logic and pass checks.&lt;/li&gt;
+&lt;li&gt;Obtain the flag without buffer overflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;03_pointy_pointy_point&#34;&gt;03_pointy_pointy_point:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify unsafe function with pointer arithmetic logic.&lt;/li&gt;
+&lt;li&gt;Input values to trick the logic and reach call_me() without changing control flow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;03_hunt_then_rop-x86-64-version&#34;&gt;03_hunt_then_rop (x86-64 Version):&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the overwritten file in /usr/bin.&lt;/li&gt;
+&lt;li&gt;Use ROP to chain calls together.&lt;/li&gt;
+&lt;li&gt;Find a gadget to supply a function argument.&lt;/li&gt;
+&lt;li&gt;Craft an exploit to obtain the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;03_hunt_then_rop-arm-version&#34;&gt;03_hunt_then_rop (ARM Version):&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the overwritten file in /usr/bin.&lt;/li&gt;
+&lt;li&gt;Use ROP for ARM architecture.&lt;/li&gt;
+&lt;li&gt;Find a gadget to load a register with a specific argument.&lt;/li&gt;
+&lt;li&gt;Craft an exploit to obtain the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;project-2&#34;&gt;Project 2&lt;/h2&gt;
+&lt;p&gt;Investigating and categorizing advanced behaviors exhibited by five malware samples. The analysis includes identifying packed executables, examining dropped files, manipulating Microsoft Office registry keys, programming in C or C++, dropping files related to the Mirai botnet, attempting keylogging, and various evasion techniques. Specific hints guide the examination process, covering aspects such as file analysis, registry activities, network behavior, and interactions with system components. The objective is to accurately label and differentiate the behaviors exhibited by each malware sample based on the provided JoeSandbox reports.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;project-3&#34;&gt;&lt;a href=&#34;&#34;&gt;Project 3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Introduction to both symmetric and asymmetric cryptographic systems&lt;/p&gt;
+&lt;h3 id=&#34;vigenere-cipherhttpsgithubcomle-queintro-to-info-securitytreemainvig_cipher&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/Vig_Cipher&#34;&gt;Vigenere Cipher&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This task focuses on the Vigenere cipher, a symmetric key cryptographic algorithm. The encryption and decryption process involves creating a Vigenere square, shifting the alphabet, and extending the key. The goal is to write code for encryption and decryption functionalities. Additionally, a dictionary attack challenge is presented, where the task is to crack a Vigenere cipher using common English words as potential keys. The provided ciphertext and a list of common words serve as inputs, and the objective is to identify the key used for encryption. The task emphasizes the vulnerability of using ordinary words as keys and requires the implementation of code to perform the necessary cryptographic operations.&lt;/p&gt;
+&lt;h3 id=&#34;rsa-warmuphttpsgithubcomle-queintro-to-info-securitytreemainwarmup&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/warmup&#34;&gt;RSA Warmup&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This task introduces asymmetric key cryptography with a focus on RSA, a well-known example in this field. The public key consists of a pair of integers, while the private key is a single integer. The encryption process involves a formula using the public key, and decryption utilizes a formula with the private key. The task instructs the writing of code to implement encryption and decryption steps for the RSA cryptographic algorithm. Additionally, the task requires code to calculate the private key (d) when provided with the factors of the public key (N), represented as p and q. Overall, the task serves as a warm-up exercise for understanding and implementing RSA cryptography.&lt;/p&gt;
+&lt;h3 id=&#34;rsa-factor-a-64-bit-keyhttpsgithubcomle-queintro-to-info-securitytreemain64-bit&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/64-bit&#34;&gt;RSA Factor A 64-Bit Key&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Provided with a set of RSA public keys characterized by a relatively small key size of 64 bits, determine the prime factors (p and q) of each RSA public key.&lt;/p&gt;
+&lt;h3 id=&#34;rsa-weak-key-attackhttpsgithubcomle-queintro-to-info-securitytreemainweak&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/weak&#34;&gt;RSA Weak Key Attack&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Exploit a vulnerability in the random number generator (RNG) used during RSA key generation. You are given a unique RSA public key (N, e), and a list of public keys generated using the same RNG on the same system. The objective is to write code that retrieves the unique private key (d) from the given public key.&lt;/p&gt;
+&lt;h3 id=&#34;rsa-broadcast-attackhttpsgithubcomle-queintro-to-info-securitytreemainrsa_broadcast&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/RSA_broadcast&#34;&gt;RSA Broadcast Attack&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A message was encrypted with three different 1,024-bit RSA public keys (N_1, N_2, and N_3), resulting in three different ciphers (c_1,
+c_2, and c_3). All of them have the same public exponent e = 3. Write the code to recover the original message.&lt;/p&gt;
+&lt;h3 id=&#34;rsa-parity-oracle-attackhttpsgithubcomle-queintro-to-info-securitytreemainoracle&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Intro-to-Info-Security/tree/main/oracle&#34;&gt;RSA Parity Oracle Attack&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Provided with an encrypted message (c) and access to a parity oracle—a special function that decrypts any integer value using the private key corresponding to the public key used for encryption. The function&amp;rsquo;s return value indicates whether the decrypted value is even or odd (true for even, false for odd). Leverage this parity oracle, along with modular arithmetic, to decrypt the original message (m) from the given ciphertext (c).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;project-4&#34;&gt;Project 4&lt;/h2&gt;
+&lt;p&gt;Attack an insecure website run by the course staff with three common web-based vulnerabilities: SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).&lt;/p&gt;
+&lt;p&gt;In Part 1, the task involves conducting SQL injection attacks on different login forms with varying defenses. Three levels of defense are presented, and the goal is to provide inputs to the target login forms that successfully log in as the user &amp;ldquo;victim.&amp;rdquo; The defenses include no defenses, simple escaping, and escaping combined with hashing using Python code. Submissions for successful logins are in the form of URL-encoded strings, with additional source code submission for the third defense level.&lt;/p&gt;
+&lt;p&gt;In Part 2, the objective is to demonstrate Cross-site Scripting (XSS) attacks against the BuzzBuzzGo search box, bypassing different defenses. Four levels of defense are provided, each requiring a unique technique to construct a URL that executes a payload stealing the username and the most recent search. The payload reports events by sending a GET request to a specified URL. Submissions include URL-encoded strings for each defense level, with an additional human-readable version of the payload for the first level.&lt;/p&gt;
+&lt;p&gt;In Part 3, the task focuses on Cross-site Request Forgery (CSRF) vulnerabilities against the login form. Two variations of the implementation are presented, with the goal of constructing attacks that surreptitiously cause the victim to log in to an account controlled by the attacker. The defenses involve no defenses and token validation, the latter using a cookie named csrf_token and a hidden field in the login form. Submissions include HTML files for each defense level, where loading the file once should execute the attack without requiring user input.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database System Implementation</title>
+      <link>le-que.github.io/post/database_im/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/database_im/</guid>
+      <description>&lt;p&gt;Examining the internal workings of modern database management systems, addressing core concepts and components utilized in high-performance transaction processing systems (OLTP) and large-scale analytical systems (OLAP). Emphasizing efficiency and correctness, covers key topics like the introduction to relational databases, storage management, access paths, and query execution. The focus is on understanding the intricate mechanisms behind the effective functioning of contemporary database systems, with an emphasis on practical implementation and optimization.&lt;/p&gt;
+&lt;h3 id=&#34;hw1httpsgithubcomle-quedatabase-system-implementationtreemainhw1&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Database-System-Implementation/tree/main/hw1&#34;&gt;HW1&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Implement an external sort algorithm with a specified memory constraint. The algorithm involves dividing the input into smaller runs, each adhering to the memory limit, sorting these runs in memory, and finally applying a K-way merge algorithm to efficiently merge the sorted runs.&lt;/p&gt;
+&lt;h3 id=&#34;hw2httpsgithubcomle-quedatabase-system-implementationtreemainhw2&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Database-System-Implementation/tree/main/hw2&#34;&gt;HW2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Implement a buffer manager using the 2Q replacement strategy, allowing the locking, reading, and writing of pages identified by 64-bit page ids, which are divided into segment id and segment page id components. The implementation supports variable page and buffer sizes, stores written pages in segment-specific files, and enables concurrent fixing and unfixing of pages from different threads.&lt;/p&gt;
+&lt;h3 id=&#34;hw3httpsgithubcomle-quedatabase-system-implementationtreemainhw3&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Database-System-Implementation/tree/main/hw3&#34;&gt;HW3&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Implement a B+-Tree index for a database. The B+-Tree implementation must support lookup, insert, and erase operations, utilizing page IDs and the buffer manager instead of pointers to handle child nodes in the tree.&lt;/p&gt;
+&lt;h3 id=&#34;hw4httpsgithubcomle-quedatabase-system-implementationtreemainhw4src&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Database-System-Implementation/tree/main/hw4/src&#34;&gt;HW4&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;implement physical operators for a database, supporting operations such as Print, Projection, Select (with relational operators), Sort, HashJoin, HashAggregation, Union, UnionAll, Intersect, IntersectAll, Except, and ExceptAll. The code should handle tuples, attributes, predicates, sorting, joining, aggregation, and set operations with both set and bag semantics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/post/systems/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/systems/</guid>
+      <description>&lt;p&gt;Overview of computer system structure and networking, covering aspects such as processor organization, memory hierarchy, storage devices, parallel processors, networking hardware, software abstractions in operating systems, and networking protocols, with a focus on orchestrating the efficient utilization of computing resources.&lt;/p&gt;
+&lt;h2 id=&#34;project-1httpsgithubcomle-quesystems-and-networkstreemaincs2200-project1&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Systems-and-Networks/tree/main/cs2200-project1&#34;&gt;Project 1&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Phase 1 - Implement the Datapath&lt;/li&gt;
+&lt;li&gt;Phase 2 - Implement the Microcontrol Unit&lt;/li&gt;
+&lt;li&gt;Phase 3 - Microcode and Testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/lc22.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;lc-22a&#34;&gt;LC-22a&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/microcontroller.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;microcontroller&#34;&gt;Microcontroller&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/CmpReg.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;compare-register&#34;&gt;Compare Register&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/alu.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;alu&#34;&gt;ALU&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/PC.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;program-counter&#34;&gt;Program Counter&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/ram.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;ram&#34;&gt;RAM&lt;/h5&gt;
+&lt;h2 id=&#34;project-2httpsgithubcomle-quesystems-and-networkstreemaincs2200-project2&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Systems-and-Networks/tree/main/cs2200-project2&#34;&gt;Project 2&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Phase 1 - Implementing a Basic Interrupt&lt;/li&gt;
+&lt;li&gt;Phase 2 - Implementing Interrupts from Input Devices
+&lt;ul&gt;
+&lt;li&gt;Monitor the temperature of bread in a toaster, recording the highest and lowest temperatures, and calculating the temperature difference at memory address 0xFFFE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/Interrupt.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;interrupt&#34;&gt;Interrupt&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/timer.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;timer&#34;&gt;Timer&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/toaster.png&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;toaster&#34;&gt;Toaster&lt;/h5&gt;
+&lt;h2 id=&#34;project-3httpsgithubcomle-quesystems-and-networkstreemaincs2200-project3&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Systems-and-Networks/tree/main/cs2200-project3&#34;&gt;Project 3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This project involves completing a virtual memory system simulator by implementing crucial components such as virtual address breakdown, system and memory access bookkeeping, process initialization, page fault handling, frame eviction algorithms (FIFO and Clock Sweep), and calculating the Average Memory Access Time (AMAT) through modifications in specific files.&lt;/p&gt;
+&lt;h2 id=&#34;project-4httpsgithubcomle-quesystems-and-networkstreemaincs2200-project4&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Systems-and-Networks/tree/main/cs2200-project4&#34;&gt;Project 4&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The given task involves implementing three CPU scheduling algorithms: First Come, First Serve (FCFS), which is non-preemptive; Round-Robin, which is preemptive and assigns time slices to processes; and Preemptive Priority (PS), where processes with higher priority are scheduled first, with preemptive behavior for higher-priority processes.&lt;/p&gt;
+&lt;h2 id=&#34;project-5httpsgithubcomle-quesystems-and-networkstreemaincs2200-project5&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Systems-and-Networks/tree/main/cs2200-project5&#34;&gt;Project 5&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This project involves a comprehensive exploration of network layers, with a focus on enhancing the reliability of the transport layer in a simulated network. Participants will delve into thread usage in operating systems, examine message segmentation and reassembly, implement the stop-and-wait protocol with acknowledgments and retransmissions, incorporate a checksum, and ultimately design a new Reliable Transport Protocol (RTP) for secure communication between a client and server, where encrypted messages are exchanged and decrypted responses are printed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database Systems</title>
+      <link>le-que.github.io/post/database/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/database/</guid>
+      <description>&lt;p&gt;Introduction to designing and implementing modern database systems in large-scale enterprise applications, covering the conceptual representation of data, conversion to specific models like the relational data model, utilization of SQL for defining relations and executing data operations, exploration of relation forms with favorable properties, and a conclusion with advanced topics in database management.&lt;/p&gt;
+&lt;h2 id=&#34;scenario-descriptionhttpsgithubcomle-quedatabase_sys&#34;&gt;&lt;a href=&#34;https://github.com/le-que/database_sys&#34;&gt;Scenario Description&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The system, named &amp;ldquo;Groceries Express! Drone Delivery,&amp;rdquo; is designed to facilitate the delivery of grocery items to customers through a third-party grocery service.&lt;/p&gt;
+&lt;h3 id=&#34;user-management&#34;&gt;User Management:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Users include customers and employees of grocery stores.&lt;/li&gt;
+&lt;li&gt;Each user has a distinct username, first name, last name, address, and birthdate.&lt;/li&gt;
+&lt;li&gt;Birthdate is stored in &amp;ldquo;yyyy-mm-dd&amp;rdquo; format and is used for user authentication and sending birthday greetings.&lt;/li&gt;
+&lt;li&gt;Some users may not share their birthdate but must provide their name and address for drone deliveries, tax, and salary purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;employee-roles&#34;&gt;Employee Roles:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Employees can have various roles, such as floor workers or drone pilots.&lt;/li&gt;
+&lt;li&gt;Drone pilots are unique and cannot simultaneously be floor workers. They control drones for grocery deliveries.&lt;/li&gt;
+&lt;li&gt;Employee roles like financial data analysts or logistical coordinators are not explicitly tracked in the system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;store-management&#34;&gt;Store Management:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Each store has a distinct identifier, a possibly duplicated longer name, and tracks revenue from successful deliveries.&lt;/li&gt;
+&lt;li&gt;Stores are supported by various employees, and each store has a floor worker acting as the overall manager.
+Each floor worker must be employed by at least one store.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drone-management&#34;&gt;Drone Management:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Drones are used for delivering orders and are associated with specific stores.&lt;/li&gt;
+&lt;li&gt;Each drone has a unique identifier, limited capacity, and needs maintenance after a certain number of trips.&lt;/li&gt;
+&lt;li&gt;A drone must be controlled by one pilot at a time, and each drone pilot must have a valid license.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;order-management&#34;&gt;Order Management:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Customers place orders, each assigned to a specific drone for delivery.&lt;/li&gt;
+&lt;li&gt;Orders consist of multiple lines, each representing a quantity of a specific item.&lt;/li&gt;
+&lt;li&gt;Customers have a rating (1 to 5) based on reliability and a credit balance.&lt;/li&gt;
+&lt;li&gt;The system calculates and displays the cost and weight of orders, ensuring the customer&amp;rsquo;s credit covers existing and new orders.&lt;/li&gt;
+&lt;li&gt;Each item can appear only once on an order, but the quantity can vary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;system-constraints&#34;&gt;System Constraints:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Names and identifying attributes are limited to 40 characters (unless specified otherwise).&lt;/li&gt;
+&lt;li&gt;Descriptive attributes are limited to 100 characters, and addresses can be up to 500 characters.&lt;/li&gt;
+&lt;li&gt;The system must enforce safety measures for drone pilots, such as not allowing them to control multiple drones simultaneously.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;phase-1&#34;&gt;Phase 1&lt;/h2&gt;
+&lt;p&gt;Translate the requirements into an (Enhanced) Entity-Relationship Diagram (EERD).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;le-que.github.io/img/post/EERD.jpg?width=100px&#34; alt=&#34;static&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;phase-2&#34;&gt;Phase 2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Translate the given EERD into a set of relational schema&lt;/li&gt;
+&lt;li&gt;Translate the relational schema into create table statements with the appropriate data types,
+primary and unique keys, and foreign keys&lt;/li&gt;
+&lt;li&gt;Write insert statements to import the initial data into the tables you&amp;rsquo;ve created&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;phase-3&#34;&gt;Phase 3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement fifteen (15) stored procedures which allow the system operators to modify the
+database state in accordance with the main use case (i.e., taking orders &amp;amp; delivering groceries)&lt;/li&gt;
+&lt;li&gt;Implement seven (7) views which provide information to the system operators about the
+database state from various &amp;ldquo;points of view&amp;rdquo; (i.e., system operator roles)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Computer Organization and Programming</title>
+      <link>le-que.github.io/post/comp_org/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/comp_org/</guid>
+      <description>&lt;p&gt;An introduction to basic computer hardware, machine language, assembly language, and C programming.&lt;/p&gt;
+&lt;h3 id=&#34;project-1httpsgithubcomle-quecomputer-organizationtreemainhw01&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw01&#34;&gt;Project 1&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This assignment is divided into three parts: &amp;ldquo;Part 1 - Bitvector&amp;rdquo; focuses on implementing operations on a 32-bit data structure representing a bit vector, &amp;ldquo;Part 2 - Bases&amp;rdquo; involves converting between different number bases using bitwise operators, and &amp;ldquo;Part 3 - Operations&amp;rdquo; includes tasks related to various bitwise and arithmetic operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-2httpsgithubcomle-quecomputer-organizationtreemainhw02&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw02&#34;&gt;Project 2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The purpose of this assignment is to develop proficiency in building digital logic circuits, progressing from transistors to gates and ultimately constructing an 8-bit Arithmetic Logic Unit (ALU) using Circuitsim. The tasks involve creating standard logic gates, an 8-input multiplexer, a decoder, a 1-bit full adder, and an 8-bit full adder, with the final goal of assembling a functional ALU capable of performing specified mathematical and logical operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-3httpsgithubcomle-quecomputer-organizationtreemainhw03&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw03&#34;&gt;Project 3&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The purpose of this assignment is to develop an understanding of registers, state machines, and K-maps.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-4httpsgithubcomle-quecomputer-organizationtreemainhw04&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw04&#34;&gt;Project 4&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The purpose of this assignment is to understand the datapath and state machine of LC-3, and the microcode that controls the state machine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-5httpsgithubcomle-quecomputer-organizationtreemainhw05&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw05&#34;&gt;Project 5&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This assignment aims to familiarize individuals with programming in LC-3 assembly code, encompassing tasks such as writing small programs, translating conditionals and loops, modifying memory, manipulating strings, and converting high-level programs into assembly code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-6httpsgithubcomle-quecomputer-organizationtreemainhw06&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw06&#34;&gt;Project 6&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This assignment aims to familiarize with the Stack and Calling Convention in LC-3 Assembly by requiring the implementation of four subroutines (gcd.asm, sort.asm, reverseCopy.asm) in LC-3 assembly language. Through this process, students are expected to gain a comprehensive understanding of the LC-3 Calling Convention, Stack Frame, and the implementation of subroutines in assembly language, including recursion.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-7httpsgithubcomle-quecomputer-organizationtreemainhw07&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw07&#34;&gt;Project 7&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The purpose of this assignment focuses on handling structs, pointers, pointer arithmetic, arrays, strings, and macros. It defines functions to manipulate an array of hogwarts_student structs, including adding students with specific constraints, updating student names, swapping students&#39; positions, removing students, comparing names based on ASCII values, sorting students based on the last three characters of their names, and printing the student details.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;project-9httpsgithubcomle-quecomputer-organizationtreemainhw09&#34;&gt;&lt;a href=&#34;https://github.com/le-que/Computer-Organization/tree/main/hw09&#34;&gt;Project 9&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The purpose of this assignment is to introduce dynamic memory allocation in C by implementing a singly-linked list data structure.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

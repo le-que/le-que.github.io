@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Que Le</title>
+    <link>le-que.github.io/tags/python/</link>
+    <description>Recent content in python on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>le-que.github.io/post/deep_learning/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/deep_learning/</guid>
+      <description>&lt;p&gt;Introduces the basics of Neural Networks (NNs). Modules include Convolutional NNs, Recurrent NNs, Deep Reinforcement Learning, and Deep Structured Prediction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>le-que.github.io/personal/machine_learn/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/machine_learn/</guid>
+      <description>&lt;p&gt;Introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>le-que.github.io/post/machine_learn/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/machine_learn/</guid>
+      <description>&lt;p&gt;Introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/personal/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/post/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

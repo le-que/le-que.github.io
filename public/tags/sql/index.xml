@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on Que Le</title>
+    <link>le-que.github.io/tags/sql/</link>
+    <description>Recent content in sql on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Systems</title>
+      <link>le-que.github.io/post/database/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/database/</guid>
+      <description>&lt;p&gt;Introduction to designing and implementing modern database systems in large-scale enterprise applications, covering the conceptual representation of data, conversion to specific models like the relational data model, utilization of SQL for defining relations and executing data operations, exploration of relation forms with favorable properties, and a conclusion with advanced topics in database management.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

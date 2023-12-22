@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Que Le</title>
+    <link>le-que.github.io/personal/</link>
+    <description>Recent content in Personal on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>le-que.github.io/personal/machine_learn/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/machine_learn/</guid>
+      <description>&lt;p&gt;Introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/personal/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/personal/systems/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/personal/systems/</guid>
+      <description>&lt;p&gt;Overview of computer system structure and networking, covering aspects such as processor organization, memory hierarchy, storage devices, parallel processors, networking hardware, software abstractions in operating systems, and networking protocols, with a focus on orchestrating the efficient utilization of computing resources.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

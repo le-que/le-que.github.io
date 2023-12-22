@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Work on Que Le</title>
+    <link>le-que.github.io/post/</link>
+    <description>Recent content in Course Work on Que Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="le-que.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>le-que.github.io/post/deep_learning/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/deep_learning/</guid>
+      <description>&lt;p&gt;Introduces the basics of Neural Networks (NNs). Modules include Convolutional NNs, Recurrent NNs, Deep Reinforcement Learning, and Deep Structured Prediction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>le-que.github.io/post/machine_learn/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/machine_learn/</guid>
+      <description>&lt;p&gt;Introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Info Security</title>
+      <link>le-que.github.io/post/security/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/security/</guid>
+      <description>&lt;p&gt;Introduction to information security, covering fundamental concepts and principles, focusing on securing computers and networks. Topics include security basics, risk assessment, software and system security, cryptography, network authentication, malware defense, privacy, and legal and ethical considerations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database System Implementation</title>
+      <link>le-que.github.io/post/database_im/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/database_im/</guid>
+      <description>&lt;p&gt;Examining the internal workings of modern database management systems, addressing core concepts and components utilized in high-performance transaction processing systems (OLTP) and large-scale analytical systems (OLAP). Emphasizing efficiency and correctness, covers key topics like the introduction to relational databases, storage management, access paths, and query execution. The focus is on understanding the intricate mechanisms behind the effective functioning of contemporary database systems, with an emphasis on practical implementation and optimization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Systems and Networks</title>
+      <link>le-que.github.io/post/systems/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/systems/</guid>
+      <description>&lt;p&gt;Overview of computer system structure and networking, covering aspects such as processor organization, memory hierarchy, storage devices, parallel processors, networking hardware, software abstractions in operating systems, and networking protocols, with a focus on orchestrating the efficient utilization of computing resources.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database Systems</title>
+      <link>le-que.github.io/post/database/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/database/</guid>
+      <description>&lt;p&gt;Introduction to designing and implementing modern database systems in large-scale enterprise applications, covering the conceptual representation of data, conversion to specific models like the relational data model, utilization of SQL for defining relations and executing data operations, exploration of relation forms with favorable properties, and a conclusion with advanced topics in database management.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Computer Organization and Programming</title>
+      <link>le-que.github.io/post/comp_org/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>le-que.github.io/post/comp_org/</guid>
+      <description>&lt;p&gt;An introduction to basic computer hardware, machine language, assembly language, and C programming.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
