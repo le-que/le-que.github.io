@@ -32,7 +32,7 @@ metaDataFormat= "yaml"
   headerTitle = "Que Le"
   name = "que_le"
   img = "img/author.jpg"
-  description= "Hi, I'm Que Le. I graduated with high honors in computer science at the Georgia Institute of Technology. I'm interested in databases, software engineering, and machine learning. I'm a great team player and I'm always looking for opportunities to learn and grow. I'm passionate about using technology to solve real-world problems. Outside of work, you can find me petting my dog, cooking, or reading." 
+  description= "Hi, I'm Que. I graduated with high honors in computer science at the Georgia Institute of Technology. I'm interested in databases, software engineering, and machine learning. I'm a great team player and I'm always looking for opportunities to learn and grow. I'm passionate about using technology to solve real-world problems. Outside of work, you can find me petting my dog, cooking, or reading." 
   licenseUrl = ""
 
  # Social icons
