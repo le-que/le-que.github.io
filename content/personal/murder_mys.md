@@ -4,6 +4,7 @@ date = "2023-12-16"
 tags = [
     "sql",
 ]
++++
 Welcome to "The Detective Club Murder" SQL game, inspired by "The Detective Club Murder" by Ruth Ware. In this game, you will use SQL queries to investigate a murder mystery. The game consists of three essential files: THE_DETECTIVE_CLUB_MURDER.sql (the database), procedures.sql (containing stored procedures), and investigation.sql (a file calling the procedures to solve the mystery).
 <!--more-->
 [code](https://github.com/le-que/Murder-Mystery)
