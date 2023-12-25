@@ -108,7 +108,7 @@ plt.xlabel('epoch')
 plt.legend(['train'], loc='upper left')
 plt.show()
 ```
-![static](/img/loss.jpg)
+![static](/img/stockL.svg)
 
 ```python
 testing_set = data_23.iloc[:, 4:5]
@@ -148,6 +148,6 @@ plt.show()
 ```
 Plots the actual and predicted stock prices.
 
-![static](/img/stock.jpg)
+![static](/img/stock.svg)
 
 This shows the predicted and actual stock price of AAPL from January 1, 2021, to December 31, 2021. The model predicts the stock price with a high degree of accuracy.

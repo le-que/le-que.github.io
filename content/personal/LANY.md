@@ -46,33 +46,35 @@ print("Next predicted words:", seed_text)
 ```markdown
 Next predicted words: Up all night on my mind got me thinking  the own phone is quiet walls town bare
 ```
-![static](/img/download.png)
-![static](/img/acc_LANY.png)
+![static](/img/acc.png)
+![static](/img/loss.png)
 
 ### Sentiment.ipynb - Sentiment Analysis and EDA
 This notebook focuses on analyzing the sentiment of each song's lyrics and performing feature engineering to extract meaningful insights. Sentiment scores are computed for each song. Various features are engineered to enhance the understanding of the lyrical content including: # of words, num of lines, average Word Length Per Line, num of uniq_words, lexical_density, views per album.
 
-![static](/img/download.jpg)
+![static](/img/coord.svg)
 
-![static](/img/newplot.jpg)
+![static](/img/hist.svg)
 
-![static](/img/common.jpg)
+![static](/img/common.svg)
 
-![static](/img/longer_common.jpg)
+![static](/img/LongerCommon.svg)
 
-![static](/img/ngram2.jpg)
+![static](/img/2word.svg)
 
-![static](/img/ngram3.jpg)
+![static](/img/3word.svg)
 
-![static](/img/numSong.jpg)
+![static](/img/numSong.svg)
 
-![static](/img/verses.jpg)
+![static](/img/verses.svg)
 
-![static](/img/cor.jpg)
+![static](/img/chorus.svg)
 
-![static](/img/views.jpg)
+![static](/img/AlbCnV.svg)
 
-![static](/img/wordLength.jpg)
+![static](/img/AlbViews.svg)
+
+![static](/img/AlbWord.svg)
 
 
 
