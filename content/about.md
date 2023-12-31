@@ -8,11 +8,14 @@ author = "Hugo Authors"
 # About Me 
 ### [Resume](https://docs.google.com/document/d/16N0nG9hNldCVgnR7ySfaHbUOF8Y68jgyJo8b-5oUK_E/edit?usp=sharing)
 
-**Language:** Java, Python, SQL
-
-**Database:** MySQL, Microsoft SQL
-
-**Technologies:** Agile, Tomcat, Google Cloud, Tableau, Jira, Remedy, Figma, Docker, Spring Boot, Git, React
+### Techincal Skills
+| |
+|:-----------------|
+| **Language:** Java, Python, SQL |
+| **Database:** MySQL, Microsoft SQL postgreSQL| 
+| **Framework:** Spring, Spring Boot, Hibernate, JPA | 
+| **Clouds:** Google Cloud, Azure | 
+| **Others:** Agile, Tomcat, Tableau, Jira, Remedy, Figma, Docker, Git, REST API, Flask, Kafka| 
 
 
 ## Education
