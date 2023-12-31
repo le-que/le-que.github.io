@@ -31,6 +31,10 @@ While this one has a unique id:
 ![static](/img/bankAPost.png)
 
 ### Deleting a bank:
-
 ![static](/img/bankDel.png)
 ![static](/img/bankDelA.png)
+
+### Updating a bank:
+updating the bank with id 1 with a new corporate (C9 -> C1):
+
+![static](/img/update.png)
