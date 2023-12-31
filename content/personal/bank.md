@@ -3,7 +3,6 @@ title = "Creating a Bank Bankend with Spring Boot"
 date = "2023-12-30"
 tags = [
     "java",
-    "work-in-progress",
     "sql",
     "database",
 ]
