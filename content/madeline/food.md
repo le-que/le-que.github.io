@@ -1,5 +1,5 @@
 +++
-title = "Food"
+title = "madeleines"
 date = "2021-08-03"
 +++
 ### Collection of food I've made
