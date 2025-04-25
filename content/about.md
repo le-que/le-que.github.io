@@ -4,7 +4,7 @@
  date = "2019-02-28"
  aliases = ["about-us", "about-hugo", "contact"]
  author = "Que Le"
- +++
++++
 # About Me 
 ### [Resume](https://drive.google.com/file/d/1npx9a5PKPZRKoxRJguPWim1Vu9uhfiW0/view?usp=sharing)
 
@@ -35,6 +35,7 @@
 |* Designed and implemented a scalable notification service using Kafka, giving real time updates on a multi-hour process.|
 |* Utilized Kubernetes in automating deployments, scaling, and managing containerized application, ensuring efficient use of resources and availability|
 | * Collaborated with cross-disciplinary teams to conceive and deliver products and services that meet user needs.|
+
 
 ### June 2022 - Aug 2022
 |Charles Schwab|
