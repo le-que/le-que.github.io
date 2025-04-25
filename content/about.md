@@ -15,7 +15,7 @@
 | **Database:** MySQL, Microsoft SQL postgreSQL| 
 | **Framework:** React, Node.js, JUnit, FastAPI, Spring, Spring Boot, Hibernate, JPA, FastAPI | 
 | **Clouds:** Google Cloud, Azure, AWS | 
-| **Others:** Agile, Tomcat, Tableau, Jira, Remedy, Figma, Docker, Git, REST API, Flask, Kafka| 
+| **Others:** Agile, Tomcat, Tableau, Jira, Remedy, Figma, Docker, Git, REST API, Flask, Kafka, Postman, GitLab, Kubernetes|
 
 
 ## Education
@@ -62,3 +62,7 @@
 * [Group 2 Social / Behavioral Research Investigators and Key Personnel](https://www.citiprogram.org/verify/?wc355fb1a-badb-479d-b99d-9a2a7c43643b-46664949)
 * [Responsible Conduct of Research](https://www.citiprogram.org/verify/?w004774f9-9afa-4d5e-9dc7-1cef663ca4c6-46664942)
 
+### LinkedIn
+* [Advance Your Skills in AI and Machine Learning](https://www.linkedin.com/learning/certificates/aa6bcb32beb72c0ff2be862d47349b0a63f7bc7a2b796e5eb4559b21d5ff4a6b)
+* [Advance Your Skills in Deep Learning and Neural Networks](https://www.linkedin.com/learning/certificates/9eb8e90b9a111c3e24a631e930615f6ed3efe485a2c7aa7f7ae7cc0b65c875d3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BDgDFBB0SRDOkc7yXofOxBw%3D%3D)
+* [Advance Your Spring Development Skills](https://www.linkedin.com/learning/certificates/e84a804b047f345e84e3ab6f00b806943a73cbb870c7320f563c71924592c654?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BDgDFBB0SRDOkc7yXofOxBw%3D%3D)
