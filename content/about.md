@@ -1,20 +1,13 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
 # About Me 
-### [Resume](https://docs.google.com/document/d/16N0nG9hNldCVgnR7ySfaHbUOF8Y68jgyJo8b-5oUK_E/edit?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1npx9a5PKPZRKoxRJguPWim1Vu9uhfiW0/view?usp=sharing)
 
 ### Techincal Skills
 | |
 |:-----------------|
-| **Language:** Java, Python, SQL |
+| **Language:** Java, Python, SQL (Postgres), C++, JavaScript, HTML/CSS |
 | **Database:** MySQL, Microsoft SQL postgreSQL| 
-| **Framework:** Spring, Spring Boot, Hibernate, JPA | 
-| **Clouds:** Google Cloud, Azure | 
+| **Framework:** React, Node.js, JUnit, FastAPI, Spring, Spring Boot, Hibernate, JPA, FastAPI | 
+| **Clouds:** Google Cloud, Azure, AWS | 
 | **Others:** Agile, Tomcat, Tableau, Jira, Remedy, Figma, Docker, Git, REST API, Flask, Kafka| 
 
 
@@ -27,7 +20,16 @@ author = "Hugo Authors"
 | **Concentrations:** Info Internetworks and People         |
 
 ## Experience
-### 2022
+### Feb 2024 - Present
+|Walmart|
+|:-----------------|
+|Software Engineer|
+|* Developed REST APIs using FastAPI and SQLAlchemy to automate and streamline the month-end data refresh process.|
+|* Designed and implemented a scalable notification service using Kafka, giving real time updates on a multi-hour process.|
+|* Utilized Kubernetes in automating deployments, scaling, and managing containerized application, ensuring efficient use of resources and availability|
+| * Collaborated with cross-disciplinary teams to conceive and deliver products and services that meet user needs.|
+
+### June 2022 - Aug 2022
 |Charles Schwab|
 |:-----------------|
 |DaRT Intern|
