@@ -1,3 +1,10 @@
++++
+ title = "About"
+ description = "About me"
+ date = "2019-02-28"
+ aliases = ["about-us", "about-hugo", "contact"]
+ author = "Que Le"
+ +++
 # About Me 
 ### [Resume](https://drive.google.com/file/d/1npx9a5PKPZRKoxRJguPWim1Vu9uhfiW0/view?usp=sharing)
 
